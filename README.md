@@ -3,7 +3,7 @@
 ---
 
 ##  1. Acceso al Dashboard Interactivo
-[ Haz clic aquí para ver el Dashboard en vivo](AQUI_PONDREMOS_EL_LINK_DE_STREAMLIT_MAS_ADELANTE)
+[ Haz clic aquí para ver el Dashboard en vivo](https://proyectoeq17.streamlit.app/)
 
 ##  2. Problema y Objetivo
 Este proyecto aplica el proceso completo de diseño, implementación y visualización de una base de datos. El objetivo es analizar los factores socioeconómicos (ingresos, educación de los padres) y académicos (asistencia, horas de estudio) que influyen en el puntaje final de los estudiantes.
